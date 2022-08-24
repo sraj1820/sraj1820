@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sraj1820
 - 👀 I’m interested in frontend, backend, and fullstack development.
-- 🌱 I’m currently learning to hone my frontend skills using frontend masters.
+- 🌱 I’m currently continuing to hone my frontend skills useing frontend masters.
 - 📫 How to reach me: Please contact me at sraj1820@gmail.com for any web development opportunities!
 
 <!---
